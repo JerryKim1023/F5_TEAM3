@@ -4,8 +4,8 @@ import os
 
 from TEAM3_F5_coFI.settings import BASE_DIR
 
-ALLOWED_HOSTS = ['cofi-f5.com']
-DEBUG = False
+# ALLOWED_HOSTS = ['cofi-f5.com']
+# DEBUG = False
 # ALLOWED_HOSTS = []
 # DEBUG = True
 
