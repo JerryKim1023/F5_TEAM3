@@ -7,6 +7,7 @@ jobs:
   ci:
 
     env:
+      # 로컬 db 아디 비번 맞춰서 적기
       DB_DATABASE: TEAM3
       DB_USER: root
       DB_PASSWORD: 2349
